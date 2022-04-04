@@ -9,7 +9,6 @@
     {"id":{"name":"spr_player_atirando","path":"sprites/spr_player_atirando/spr_player_atirando.yy",},"order":2,},
     {"id":{"name":"spr_pedacos_inimigo","path":"sprites/spr_pedacos_inimigo/spr_pedacos_inimigo.yy",},"order":1,},
     {"id":{"name":"obj_tiro_player","path":"objects/obj_tiro_player/obj_tiro_player.yy",},"order":1,},
-    {"id":{"name":"teste","path":"sprites/teste/teste.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
